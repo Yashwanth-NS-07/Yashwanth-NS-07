@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yashwanth-NS-07
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning WEB Devlopment
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashns1859@gmail.com
 
 <!---
