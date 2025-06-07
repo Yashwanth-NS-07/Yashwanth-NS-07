@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashwanth-NS-07
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning WEB Devlopment and system programming
+- 🌱 I’m currently learning WEB Devlopment, kafka and system programming
 - 📫 How to reach me yashns1859@gmail.com
 
 <!---
